@@ -1,7 +1,7 @@
 {
   "name": "<Vent>",
   "symbol": "VENT",
-  "description": "Ventura collection",
+  "description": "Ventura token",
   "image": "https://raw.githubusercontent.com/IVSOP/vent/main/av.png",
   "properties": {
     "files": [
